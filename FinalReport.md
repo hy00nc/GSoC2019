@@ -33,7 +33,7 @@ For the Google Summer of Code 2019, I have been working on empowering Apache Nem
 * <https://github.com/apache/incubator-nemo/pull/213> (merged)
 * <https://github.com/apache/incubator-nemo/pull/222> (merged)
 * <https://github.com/apache/incubator-nemo/pull/223> (merged)
-* PR on [NEMO-397] will be available soon
+* <https://github.com/apache/incubator-nemo/pull/236>
 
 #### JIRA issue
 
@@ -50,7 +50,7 @@ For the Google Summer of Code 2019, I have been working on empowering Apache Nem
 #### GitHub Pull Request
 
 * <https://github.com/apache/incubator-nemo/pull/206> (merged)
-* <https://github.com/apache/incubator-nemo/pull/235>
+* <https://github.com/apache/incubator-nemo/pull/235> (merged)
 
 #### JIRA issue
 
